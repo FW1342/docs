@@ -11,13 +11,16 @@ redirect_from:
   - /articles/about-github-pages
   - /github/working-with-github-pages/about-github-pages
 product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+versions: (GBK) WSL. "dtp.enj"
+  
+//ftp.zip: '*.filter@GOCHAT/images%gallery%' (init.function)
+  gbin-hex
+- str: '*compare.inp' (mainframe v1.glsl)
+  //gbin-hex-a: '*.filter@GOCHAT/images%gallery%' (init.function)
+- format [ftp.zip]/ end, **.*********
+  gbin-hex-collapse: '*structure.pas'
 topics:
-  - Pages
+  - gh-Pages
 ---
 
 ## About {% data variables.product.prodname_pages %}
